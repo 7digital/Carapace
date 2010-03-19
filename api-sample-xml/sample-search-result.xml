@@ -1,0 +1,419 @@
+<response status="ok" version="1.2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="http://api.7digital.com/1.2/static/7digitalAPI.xsd">
+
+    <searchResults>
+
+        <page>1</page>
+        <pageSize>10</pageSize>
+        <totalItems>5984</totalItems>
+
+
+        <searchResult>
+            <type>track</type>
+            <track id="6873701">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="369831">
+                    <name>Jon Levine</name>
+
+                    <appearsAs>Jon Levine</appearsAs>
+
+                    <url>http://www.7digital.com/artists/jon-levine/?partner=712</url>
+                </artist>
+                <trackNumber>2</trackNumber>
+                <duration>217</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>CA1HA0900002</isrc>
+                <release id="618891">
+                    <title>Ground Tied</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="369831">
+                        <name>Jon Levine</name>
+
+                        <appearsAs>Jon Levine</appearsAs>
+
+                        <url>http://www.7digital.com/artists/jon-levine/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/jon-levine/ground-tied/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/006/188/0000618891_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/jon-levine/ground-tied/02-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="6815033">
+                <title>Happy</title>
+                <version>Soul Mekanik Remix</version>
+
+                <artist id="8898">
+                    <name>Max Sedgley</name>
+
+                    <appearsAs>Ministry of Sound</appearsAs>
+
+                    <url>http://www.7digital.com/artists/max-sedgley/?partner=712</url>
+                </artist>
+                <trackNumber>52</trackNumber>
+                <duration>543</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBGNS0400029</isrc>
+                <release id="613233">
+                    <title>The Chilled House Session</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="141591">
+                        <name>Ministry of Sound</name>
+
+                        <appearsAs>Ministry of Sound</appearsAs>
+
+                        <url>http://www.7digital.com/artists/ministry-of-sound/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/ministry-of-sound/the-chilled-house-session/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/006/132/0000613233_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/ministry-of-sound/the-chilled-house-session/52-Happy/?partner=712
+                </url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="6544223">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="293448">
+                    <name>frYars</name>
+
+                    <appearsAs>frYars</appearsAs>
+
+                    <url>http://www.7digital.com/artists/fryars/?partner=712</url>
+                </artist>
+                <trackNumber>10</trackNumber>
+                <duration>305</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBYCW0900013</isrc>
+                <release id="589936">
+                    <title>Dark Young Hearts</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="293448">
+                        <name>frYars</name>
+
+                        <appearsAs>frYars</appearsAs>
+
+                        <url>http://www.7digital.com/artists/fryars/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/fryars/dark-young-hearts/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/005/899/0000589936_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/fryars/dark-young-hearts/10-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="6012143">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="27891">
+                    <name>The Bamboos</name>
+
+                    <appearsAs>Various Artists</appearsAs>
+
+                    <url>http://www.7digital.com/artists/the-bamboos/?partner=712</url>
+                </artist>
+                <trackNumber>5</trackNumber>
+                <duration>236</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBEUE0600511</isrc>
+                <release id="543254">
+                    <title>Unfold Presents...tru Thoughts Covers</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="209">
+                        <name>Various Artists</name>
+
+                        <appearsAs>Various Artists</appearsAs>
+
+                        <url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+                    </artist>
+                    <url>
+                        http://www.7digital.com/artists/various-artists/unfold-presents-tru-thoughts-covers/?partner=712
+                    </url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/005/432/0000543254_50.jpg</image>
+
+                </release>
+                <url>
+                    http://www.7digital.com/artists/various-artists/unfold-presents-tru-thoughts-covers/05-Happy/?partner=712
+                </url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="5306355">
+                <title>Happy</title>
+                <version>Single Version</version>
+
+                <artist id="1515">
+                    <name>Eddie Kendricks</name>
+
+                    <appearsAs>Various Artists</appearsAs>
+
+                    <url>http://www.7digital.com/artists/eddie-kendricks/?partner=712</url>
+                </artist>
+                <trackNumber>219</trackNumber>
+                <duration>213</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>USMO10200297</isrc>
+                <release id="477998">
+                    <title>To Dad From Motown</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="209">
+                        <name>Various Artists</name>
+
+                        <appearsAs>Various Artists</appearsAs>
+
+                        <url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/various-artists/to-dad-from-motown/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/004/779/0000477998_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/various-artists/to-dad-from-motown/219-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="4931747">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="8898">
+                    <name>Max Sedgley</name>
+
+                    <appearsAs>Various</appearsAs>
+
+                    <url>http://www.7digital.com/artists/max-sedgley/?partner=712</url>
+                </artist>
+                <trackNumber>22</trackNumber>
+                <duration>198</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBGNS0400029</isrc>
+                <release id="443821">
+                    <title>Ministry of Sound Presents Chilled II 1991-2009</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="209">
+                        <name>Various Artists</name>
+
+                        <appearsAs>Various</appearsAs>
+
+                        <url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+                    </artist>
+                    <url>
+                        http://www.7digital.com/artists/various-artists/ministry-of-sound-presents-chilled-ii-1991-2009/?partner=712
+                    </url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/004/438/0000443821_50.jpg</image>
+
+                </release>
+                <url>
+                    http://www.7digital.com/artists/various-artists/ministry-of-sound-presents-chilled-ii-1991-2009/22-Happy/?partner=712
+                </url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="3886589">
+                <title>Happy</title>
+                <version>Single Version</version>
+
+                <artist id="5016">
+                    <name>William Bell</name>
+
+                    <appearsAs>Various Artists</appearsAs>
+
+                    <url>http://www.7digital.com/artists/william-bell/?partner=712</url>
+                </artist>
+                <trackNumber>309</trackNumber>
+                <duration>151</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>USFI80700359</isrc>
+                <release id="347307">
+                    <title>The Complete Introduction To Northern Soul</title>
+                    <version>E Album Box Set</version>
+                    <type>Album</type>
+
+                    <artist id="209">
+                        <name>Various Artists</name>
+
+                        <appearsAs>Various Artists</appearsAs>
+
+                        <url>http://www.7digital.com/artists/various-artists/?partner=712</url>
+                    </artist>
+                    <url>
+                        http://www.7digital.com/artists/various-artists/the-complete-introduction-to-northern-soul/?partner=712
+                    </url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/003/473/0000347307_50.jpg</image>
+
+                </release>
+                <url>
+                    http://www.7digital.com/artists/various-artists/the-complete-introduction-to-northern-soul/309-Happy/?partner=712
+                </url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="3521728">
+                <title>Happy</title>
+                <version>Live Licks Tour</version>
+
+                <artist id="522">
+                    <name>The Rolling Stones</name>
+
+                    <appearsAs>The Rolling Stones</appearsAs>
+
+                    <url>http://www.7digital.com/artists/the-rolling-stones-(2)/?partner=712</url>
+                </artist>
+                <trackNumber>9</trackNumber>
+                <duration>218</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>GBCJN0400009</isrc>
+                <release id="312058">
+                    <title>Live Licks</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="522">
+                        <name>The Rolling Stones</name>
+
+                        <appearsAs>The Rolling Stones</appearsAs>
+
+                        <url>http://www.7digital.com/artists/the-rolling-stones-(2)/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/the-rolling-stones-(2)/live-licks-1/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/003/120/0000312058_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/the-rolling-stones-(2)/live-licks-1/09-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="2855447">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="206">
+                    <name>NERD</name>
+
+                    <appearsAs>N.E.R.D.</appearsAs>
+
+                    <url>http://www.7digital.com/artists/n-e-r-d-(2)/?partner=712</url>
+                </artist>
+                <trackNumber>8</trackNumber>
+                <duration>275</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>USUM70814597</isrc>
+                <release id="265386">
+                    <title>Seeing Sounds</title>
+                    <version>UK Version</version>
+                    <type>Album</type>
+
+                    <artist id="206">
+                        <name>NERD</name>
+
+                        <appearsAs>N.E.R.D.</appearsAs>
+
+                        <url>http://www.7digital.com/artists/n-e-r-d-(2)/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/n-e-r-d-(2)/seeing-sounds-1/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/002/653/0000265386_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/n-e-r-d-(2)/seeing-sounds-1/08-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+        <searchResult>
+            <type>track</type>
+            <track id="2285353">
+                <title>Happy</title>
+                <version></version>
+
+                <artist id="82196">
+                    <name>Samiam</name>
+
+                    <appearsAs>Samiam</appearsAs>
+
+                    <url>http://www.7digital.com/artists/samiam/?partner=712</url>
+                </artist>
+                <trackNumber>12</trackNumber>
+                <duration>190</duration>
+                <explicitContent>false</explicitContent>
+                <isrc>SEVHC9706120</isrc>
+                <release id="202931">
+                    <title>You're Freaking Me Out</title>
+                    <version></version>
+                    <type>Album</type>
+
+                    <artist id="82196">
+                        <name>Samiam</name>
+
+                        <appearsAs>Samiam</appearsAs>
+
+                        <url>http://www.7digital.com/artists/samiam/?partner=712</url>
+                    </artist>
+                    <url>http://www.7digital.com/artists/samiam/youre-freaking-me-out-(1)/?partner=712</url>
+                    <image>http://cdn.7static.com/static/img/sleeveart/00/002/029/0000202931_50.jpg</image>
+
+                </release>
+                <url>http://www.7digital.com/artists/samiam/youre-freaking-me-out-(1)/12-Happy/?partner=712</url>
+
+            </track>
+
+        </searchResult>
+
+
+    </searchResults>
+
+
+</response>

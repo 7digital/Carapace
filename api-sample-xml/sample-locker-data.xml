@@ -1,0 +1,2766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response status="ok" version="1.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://api.7digital.systest/1.2/static/7digitalAPI.xsd">
+
+
+	<locker>
+
+		<lockerReleases>
+
+			<page>1</page>
+			<pageSize>10</pageSize>
+			<totalItems>24</totalItems>
+
+
+
+			<lockerRelease>
+				<release id="213211">
+					<title>African Vibrations</title>
+					<version />
+					<type>Single</type>
+
+					<artist id="160694">
+						<name>Kwanzaa Posse feat. Massive Attack</name>
+
+						<appearsAs>Kwanzaa Posse feat. Massive Attack</appearsAs>
+
+						<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/african-vibrations/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/002/132/0000213211_50.jpg</image>
+
+					<releaseDate>2008-08-01T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="2321340">
+							<title>African Vibrations</title>
+							<version>Massive Attack Full Vocal</version>
+
+							<artist id="160694">
+								<name>Kwanzaa Posse feat. Massive Attack</name>
+
+								<appearsAs>Kwanzaa Posse feat. Massive Attack</appearsAs>
+
+								<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/african-vibrations/01-African-Vibrations?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2009-01-12T15:03:48Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321340&amp;oauth_signature=y%2B99lbqroSgI0QijcPbGE4Fywss%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321340&amp;oauth_signature=Ug%2B0QWcwp6BTHDplh81muCR9Zek%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321340&amp;oauth_signature=tonVAeLGEigrIemiS5X1pRaJJww%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2321341">
+							<title>African Vibrations</title>
+							<version>Massive Attack Hilltop Mix</version>
+
+							<artist id="160694">
+								<name>Kwanzaa Posse feat. Massive Attack</name>
+
+								<appearsAs>Kwanzaa Posse feat. Massive Attack</appearsAs>
+
+								<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/kwanzaa-posse-feat-massive-attack/african-vibrations/02-African-Vibrations?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2009-01-12T15:03:48Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321341&amp;oauth_signature=%2BUYM2Oly4RJzbKhMk3FMKJKm%2BBA%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321341&amp;oauth_signature=nSg8AZMZSzU2pjR87xU5ZyDLHAw%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=213211&amp;shopid=34&amp;trackid=2321341&amp;oauth_signature=wwIqWjJVzhPMkv9xmnNnbNyQRF0%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="129351">
+					<title>After The Goldrush</title>
+					<version />
+					<type>Album</type>
+
+					<artist id="915">
+						<name>Neil Young</name>
+
+						<appearsAs>Neil Young</appearsAs>
+
+						<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/001/293/0000129351_50.jpg</image>
+
+					<releaseDate>2005-02-22T00:00:00Z</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="1337708">
+							<title>Tell Me Why (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/01-Tell-Me-Why-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>0</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=1337708&amp;oauth_signature=mpReroci5syevQ7Nn%2B%2B6J%2BieHSw%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="389421">
+							<title>After The Gold Rush (Album Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/02-After-The-Gold-Rush-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=389421&amp;oauth_signature=t%2BYlCS9%2FmnMTUPKxZmkkmFkzS18%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="93368">
+							<title>Only Love Can Break Your Heart (Album Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/03-Only-Love-Can-Break-Your-Heart-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=93368&amp;oauth_signature=jKm2z6j4MNDyt8Se2ULyxDJt%2B3U%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="389422">
+							<title>Southern Man (Album Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/04-Southern-Man-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=389422&amp;oauth_signature=KKxw%2FXMj0SO6L92uOS2SQZc9fPo%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284470">
+							<title>Till The Morning Comes (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/05-Till-The-Morning-Comes-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284470&amp;oauth_signature=Rl9lhy%2BdraqmJHdzWd89n8YnHgc%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284471">
+							<title>Oh, Lonesome Me (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/06-Oh-Lonesome-Me-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=5707713&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284471&amp;oauth_signature=n4IsIQS4JsHL%2FeBJ3eHrugUb5wg%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284472">
+							<title>Don't Let It Bring You Down (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/07-Dont-Let-It-Bring-You-Down-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284472&amp;oauth_signature=%2BPp%2BCjJN1LdMm0%2B%2BLVsY4axlPsA%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284473">
+							<title>Birds  (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/08-Birds-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284473&amp;oauth_signature=mis6shzuJF3JsvfWJfhvIQdvfqo%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284474">
+							<title>When You Dance You Can Really Love (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/09-When-You-Dance-You-Can-Really-Love-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284474&amp;oauth_signature=%2Ff0%2B1cby%2BGIhdYGQLRSqU49K8KM%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284475">
+							<title>I Believe In You (Album Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/10-I-Believe-In-You-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284475&amp;oauth_signature=F1s4Wyl1CCJ0sD1SN90nFYu4lAc%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2284476">
+							<title>Cripple Creek Ferry (LP Version)</title>
+							<version />
+
+							<artist id="915">
+								<name>Neil Young</name>
+
+								<appearsAs>Neil Young</appearsAs>
+
+								<url>http://www.7digital.com/artists/neil-young/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/neil-young/after-the-goldrush/11-Cripple-Creek-Ferry-(LP-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2008-10-30T12:16:57Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=129351&amp;shopid=34&amp;trackid=2284476&amp;oauth_signature=0M7TAHLKCJj6arN1U8qnTXW26eo%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="15176">
+					<title>Appetite For Destruction</title>
+					<version>Explicit Version</version>
+					<type>Album</type>
+
+					<artist id="678">
+						<name>Guns N' Roses</name>
+
+						<appearsAs>Guns N' Roses</appearsAs>
+
+						<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/000/151/0000015176_50.jpg</image>
+
+					<releaseDate>2006-05-04T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="158837">
+							<title>Welcome To The Jungle</title>
+							<version>Album Version</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/01-Welcome-To-The-Jungle?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:04Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158837&amp;oauth_signature=jf%2FkP5E0%2BzuR21oXjIBNgljPV0o%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158838">
+							<title>It's So Easy</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/02-Its-So-Easy?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:04Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158838&amp;oauth_signature=ZapTZimYPYjAkxgxRJzvefGIjno%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158839">
+							<title>Nightrain</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/03-Nightrain?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:04Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158839&amp;oauth_signature=FN1PosfXNjEdOrln3Kg8tGWIIfE%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158840">
+							<title>Out Ta Get Me</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/04-Out-Ta-Get-Me?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:04Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158840&amp;oauth_signature=bw%2Ff9VbusCOCU3lg6qlFnC5srmI%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158841">
+							<title>Mr. Brownstone</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/05-Mr-Brownstone?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:04Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158841&amp;oauth_signature=NHHfDxCZPlAlSO5YQNqMEPR0vnI%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158842">
+							<title>Paradise City</title>
+							<version>Album Version</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/06-Paradise-City?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=9251486&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158842&amp;oauth_signature=L%2BjIrZil8Kiy%2FYPrQbDwzg%2BgtZ4%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158843">
+							<title>My Michelle</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/07-My-Michelle?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158843&amp;oauth_signature=isv1TdhsBfF7F1jB6xyOuM4JbZI%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158844">
+							<title>Think About You</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/08-Think-About-You?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158844&amp;oauth_signature=cwHaBnjm11UkHKEWKYKiJyVwl5s%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158845">
+							<title>Sweet Child O' Mine</title>
+							<version />
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/09-Sweet-Child-O-Mine?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158845&amp;oauth_signature=n7CL8sFzzjpJsUCzH74eNQig3tk%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158846">
+							<title>You're Crazy</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/10-Youre-Crazy?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>2</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158846&amp;oauth_signature=i8OLMJARacYflLtGGtrek9X9M3c%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158847">
+							<title>Anything Goes</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/11-Anything-Goes?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158847&amp;oauth_signature=VzAt71LPQuPTUUXYThPV1YxzqHc%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="158848">
+							<title>Rocket Queen</title>
+							<version>Album Version (Explicit)</version>
+
+							<artist id="678">
+								<name>Guns N' Roses</name>
+
+								<appearsAs>Guns N' Roses</appearsAs>
+
+								<url>http://www.7digital.com/artists/guns-n-roses/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/guns-n-roses/appetite-for-destruction/12-Rocket-Queen?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-01-22T12:42:05Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=15176&amp;shopid=34&amp;trackid=158848&amp;oauth_signature=0sUNJSK%2B9CZ978d8Dn%2Bw%2BvNnhyg%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="79714">
+					<title>Blue Monday</title>
+					<version />
+					<type>Single</type>
+
+					<artist id="4737">
+						<name>New Order</name>
+
+						<appearsAs>New Order</appearsAs>
+
+						<url>http://www.7digital.com/artists/new-order/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/new-order/blue-monday/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/000/797/0000079714_50.jpg</image>
+
+					<releaseDate>2006-10-23T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="841560">
+							<title>Blue Monday</title>
+							<version />
+
+							<artist id="4737">
+								<name>New Order</name>
+
+								<appearsAs>New Order</appearsAs>
+
+								<url>http://www.7digital.com/artists/new-order/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/new-order/blue-monday/01-Blue-Monday?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:36Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=79714&amp;shopid=34&amp;trackid=841560&amp;oauth_signature=svA%2FCBeYvuwWNelfdIXxgDZk8y0%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="267315">
+					<title>Danse Macabre</title>
+					<version />
+					<type>Album</type>
+
+					<artist id="195159">
+						<name>Esperanto</name>
+
+						<appearsAs>Esperanto</appearsAs>
+
+						<url>http://www.7digital.com/artists/esperanto/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/esperanto/danse-macabre/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/002/673/0000267315_50.jpg</image>
+
+					<releaseDate>2008-05-22T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="2934784">
+							<title>The Castle</title>
+							<version />
+
+							<artist id="195159">
+								<name>Esperanto</name>
+
+								<appearsAs>Esperanto</appearsAs>
+
+								<url>http://www.7digital.com/artists/esperanto/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/esperanto/danse-macabre/02-The-Castle?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2009-07-01T14:00:39+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=267315&amp;shopid=34&amp;trackid=2934784&amp;oauth_signature=ey32Pzkb%2BXHnS%2F0KIh7bdNGK31U%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="20580">
+					<title>Dub Gone 2 Crazy</title>
+					<version />
+					<type>Album</type>
+
+					<artist id="7835">
+						<name>King Tubby</name>
+
+						<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+						<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/000/205/0000020580_50.jpg</image>
+
+					<releaseDate>2006-12-11T00:00:00Z</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="214509">
+							<title>Dub Of Rights</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/01-Dub-Of-Rights?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>0</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214509&amp;oauth_signature=eBHxkHCRE9pTrATFB5fdeslaBuQ%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214510">
+							<title>A Living Version</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/02-A-Living-Version?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>0</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214510&amp;oauth_signature=o5Zj1cymrCKfPeNQ8et0KLJrAP4%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214511">
+							<title>The Poor Barber</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/03-The-Poor-Barber?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=7635474&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214511&amp;oauth_signature=X5is0pbHeSgs9osXbrUQuWP1bX8%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214512">
+							<title>Higher Ranking</title>
+							<version />
+
+							<artist id="14155">
+								<name>Prince Jammy</name>
+
+								<appearsAs>Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/prince-jammy/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/04-Higher-Ranking?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214512&amp;oauth_signature=MaAacplREGt8fokLWK3zF5KNOeM%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214513">
+							<title>A Heavy Dub</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/05-A-Heavy-Dub?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214513&amp;oauth_signature=biVeH3mzSnQOYB3izF80cV4HksY%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214514">
+							<title>A Stalawatt Version</title>
+							<version />
+
+							<artist id="14155">
+								<name>Prince Jammy</name>
+
+								<appearsAs>Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/prince-jammy/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/06-A-Stalawatt-Version?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214514&amp;oauth_signature=HLemVP32Ys9sq7TTlPjipo78TtU%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214515">
+							<title>King Tubby's In Fine Style</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/07-King-Tubbys-In-Fine-Style?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214515&amp;oauth_signature=tt7v%2BO5UaAqfjDvfpclG1cpCfXM%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214516">
+							<title>African Sounds</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/08-African-Sounds?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214516&amp;oauth_signature=VjdGhc5XrCwNWxbfQ6uxPxR4wKE%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214517">
+							<title>Version Of Class</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/09-Version-Of-Class?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214517&amp;oauth_signature=tPubRqQK%2FpPBkLQq37uWxdLQ1ac%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214518">
+							<title>Channel One Under Heavy Manners</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/10-Channel-One-Under-Heavy-Manners?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214518&amp;oauth_signature=YvkV5XQB9A7TjocOTr9zckObeyY%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214519">
+							<title>Breaking Up Dubwise</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/11-Breaking-Up-Dubwise?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214519&amp;oauth_signature=nifCi2uYdavsgH2PEk49O5wqPs8%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214520">
+							<title>Channel Get Knockout</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/12-Channel-Get-Knockout?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214520&amp;oauth_signature=5k2%2FTaLobfVAIuIsDR1gKPYy%2FRM%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214521">
+							<title>Channel Is A Joker</title>
+							<version />
+
+							<artist id="7835">
+								<name>King Tubby</name>
+
+								<appearsAs>King Tubby / Prince Jammy</appearsAs>
+
+								<url>http://www.7digital.com/artists/king-tubby/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/13-Channel-Is-A-Joker?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214521&amp;oauth_signature=2Nelmod8ZS8g69e%2BPMoeKHfnFzs%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="214522">
+							<title>Drums Of Africa</title>
+							<version />
+
+							<artist id="114848">
+								<name>Prince Jammy / The Aggrovators</name>
+
+								<appearsAs>Prince Jammy / The Aggrovators</appearsAs>
+
+								<url>http://www.7digital.com/artists/prince-jammy-the-aggrovators/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/king-tubby/dub-gone-2-crazy/14-Drums-Of-Africa?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>1</remainingDownloads>
+						<purchaseDate>2009-06-22T15:57:57+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=20580&amp;shopid=34&amp;trackid=214522&amp;oauth_signature=7dbg6eGcjgwNXWw8n%2BnlIBsZNno%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="220602">
+					<title>Flight Of The Conchords</title>
+					<version />
+					<type>Album</type>
+
+					<artist id="38874">
+						<name>Flight Of The Conchords</name>
+
+						<appearsAs>Flight Of The Conchords</appearsAs>
+
+						<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/002/206/0000220602_50.jpg</image>
+
+					<releaseDate>2008-04-18T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="2408671">
+							<title>Foux du Fafa (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/01-Foux-du-Fafa-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408671&amp;oauth_signature=qWdwbYVIX%2BsH1fCjixPkTdolXtY%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408673">
+							<title>Inner City Pressure (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/02-Inner-City-Pressure-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=1302649&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408673&amp;oauth_signature=scylfUE8Jte%2BWf6tbfWK5dlZnJI%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408676">
+							<title>Hiphopopotamus vs. Rhymenoceros [feat. Rhymenocerous and the Hiphopopotamus] (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/03-Hiphopopotamus-vs-Rhymenoceros-[feat-Rhymenocerous-and-the-Hiphopopotamus]-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408676&amp;oauth_signature=7j45tl2ycztLKZq%2F9n%2FV6okKkqI%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408678">
+							<title>Think About It (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/04-Think-About-It-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408678&amp;oauth_signature=%2F9qVD%2F6oE82RmgvhX%2FA%2FydeyS7o%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408680">
+							<title>Ladies of the World (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/05-Ladies-of-the-World-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408680&amp;oauth_signature=Z3z89XYOw6sXWPEpWdML%2F7JwRAM%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408683">
+							<title>Mutha'uckas (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/06-Muthauckas-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408683&amp;oauth_signature=y0J%2BwPTMahNtMvJ9jXa0GiRGwlg%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408686">
+							<title>The Prince of Parties (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/07-The-Prince-of-Parties-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408686&amp;oauth_signature=0xciryrP1lhS%2Bo50pp1qrRc9GnI%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408688">
+							<title>Leggy Blonde [feat. Rhys Darby] (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/08-Leggy-Blonde-[feat-Rhys-Darby]-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408688&amp;oauth_signature=rwPllNjMuA6kaNVYDjRGKWy9q1c%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408689">
+							<title>Robots (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/09-Robots-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408689&amp;oauth_signature=%2BDlsT4KNyoSLpmzwlX9DIDheCJc%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408694">
+							<title>Boom (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/10-Boom-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408694&amp;oauth_signature=JJwaX6i9ayKx2dhMulObyFuvMBg%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408698">
+							<title>A Kiss Is Not A Contract (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/11-A-Kiss-Is-Not-A-Contract-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408698&amp;oauth_signature=RakzLSTBRU2wAS3V6UHYdODYGng%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408700">
+							<title>The Most Beautiful Girl [In The Room] (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/12-The-Most-Beautiful-Girl-[In-The-Room]-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408700&amp;oauth_signature=%2Fdf7%2Bifjbagu%2FLH7uNmJLc%2FZXXc%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408705">
+							<title>Business Time (Album)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/13-Business-Time-(Album)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408705&amp;oauth_signature=6Oq7j1ylu%2BG3yIAI6nvpV6UMvs0%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408708">
+							<title>Bowie (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/14-Bowie-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408708&amp;oauth_signature=%2Fu%2FM52lYHZCD%2BoZTMQI%2F32fheNI%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="2408710">
+							<title>Au Revoir (Album Version)</title>
+							<version />
+
+							<artist id="38874">
+								<name>Flight Of The Conchords</name>
+
+								<appearsAs>Flight Of The Conchords</appearsAs>
+
+								<url>http://www.7digital.com/artists/flight-of-the-conchords/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/flight-of-the-conchords/flight-of-the-conchords-1/15-Au-Revoir-(Album-Version)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>3</remainingDownloads>
+						<purchaseDate>2009-05-17T17:37:16+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=48&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=220602&amp;shopid=34&amp;trackid=2408710&amp;oauth_signature=ntdFDXr9hs355a2TC%2BYWBN37YV4%3D</url>
+
+								<format id="48">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>256</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="347290">
+					<title>Hat</title>
+					<version />
+					<type>Album</type>
+
+					<artist id="7385">
+						<name>Davy Graham</name>
+
+						<appearsAs>Davy Graham</appearsAs>
+
+						<url>http://www.7digital.com/artists/davy-graham/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/davy-graham/hat-1/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/003/472/0000347290_50.jpg</image>
+
+					<releaseDate>2008-05-22T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="3886413">
+							<title>Hornpipe For Harpsichord Played Upon Guitar</title>
+							<version />
+
+							<artist id="7385">
+								<name>Davy Graham</name>
+
+								<appearsAs>Davy Graham</appearsAs>
+
+								<url>http://www.7digital.com/artists/davy-graham/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/davy-graham/hat-1/07-Hornpipe-For-Harpsichord-Played-Upon-Guitar?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>4</remainingDownloads>
+						<purchaseDate>2009-05-06T14:11:07+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=4846422&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=347290&amp;shopid=34&amp;trackid=3886413&amp;oauth_signature=7rKqQMXCdZrgAwA744qmgVIT53A%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="44218">
+					<title>Hope For A Generation E.P</title>
+					<version />
+					<type>Single</type>
+
+					<artist id="26665">
+						<name>Fat Freddy's Drop</name>
+
+						<appearsAs>Fat Freddy's Drop</appearsAs>
+
+						<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/000/442/0000044218_50.jpg</image>
+
+					<releaseDate>2004-08-01T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="472274">
+							<title>Bluey</title>
+							<version />
+
+							<artist id="26665">
+								<name>Fat Freddy's Drop</name>
+
+								<appearsAs>Fat Freddy's Drop</appearsAs>
+
+								<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/01-Bluey?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:36Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472274&amp;oauth_signature=sCSSi2GNb7PMFMwu0fie1L4rnXA%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472274&amp;oauth_signature=6Byj%2FU%2BpiacrUFh2eYg2Zc6q6ek%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472274&amp;oauth_signature=jW2eY%2BixOdnI1yU9fzO7N3TNZ9s%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="472275">
+							<title>Hope</title>
+							<version />
+
+							<artist id="26665">
+								<name>Fat Freddy's Drop</name>
+
+								<appearsAs>Fat Freddy's Drop</appearsAs>
+
+								<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/02-Hope?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:36Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472275&amp;oauth_signature=nsGf546rIg3b92dR1pmHcOpBiUc%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472275&amp;oauth_signature=Lg2cQVYOWvyo6mPLAWvIaCVgL4E%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472275&amp;oauth_signature=7rLgww8WXcozK%2BPmuUn7oZGU9Nw%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="472276">
+							<title>Willow Tree (Live)</title>
+							<version />
+
+							<artist id="26665">
+								<name>Fat Freddy's Drop</name>
+
+								<appearsAs>Fat Freddy's Drop</appearsAs>
+
+								<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/03-Willow-Tree-(Live)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:36Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472276&amp;oauth_signature=4nFjgcWk4KxnNNCisTbaCikml9I%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472276&amp;oauth_signature=zQ%2BhVrmRRn3nPG%2BjJ8J9duhTlcg%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472276&amp;oauth_signature=jkNwmBOghlpW6zo9gy10wDZqRQI%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="472277">
+							<title>Runnin (Live)</title>
+							<version />
+
+							<artist id="26665">
+								<name>Fat Freddy's Drop</name>
+
+								<appearsAs>Fat Freddy's Drop</appearsAs>
+
+								<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/04-Runnin-(Live)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:35Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472277&amp;oauth_signature=NK78v%2BrIcZo%2B1H8moTQrCJ%2FJY34%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=3230410&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472277&amp;oauth_signature=vrhTQqRSoK95IyNtISJS9ongeXo%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=6774183&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472277&amp;oauth_signature=dNoTwdhXmdHi909DDFHM6ZeL%2FXI%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+
+					<lockerTrack>
+						<track id="472278">
+							<title>Hope (Radio Edit)</title>
+							<version />
+
+							<artist id="26665">
+								<name>Fat Freddy's Drop</name>
+
+								<appearsAs>Fat Freddy's Drop</appearsAs>
+
+								<url>http://www.7digital.com/artists/fat-freddys-drop/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/fat-freddys-drop/hope-for-a-generation-e-p/05-Hope-(Radio-Edit)?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2008-12-19T15:41:36Z</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=6&amp;oauth_consumer_key=test-api&amp;oauth_nonce=6774183&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472278&amp;oauth_signature=fCmCc5Ql0YCg%2BKGgjdPnAD%2FSfRc%3D</url>
+
+								<format id="6">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=2&amp;oauth_consumer_key=test-api&amp;oauth_nonce=6774183&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472278&amp;oauth_signature=81PXB74fRU4DhBW%2BGXH06DdFJrc%3D</url>
+
+								<format id="2">
+									<fileFormat>M4A</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=1&amp;oauth_consumer_key=test-api&amp;oauth_nonce=6774183&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=44218&amp;shopid=34&amp;trackid=472278&amp;oauth_signature=Ub7IS355o8epzdlX7rt%2F1XJR%2FiM%3D</url>
+
+								<format id="1">
+									<fileFormat>WMA</fileFormat>
+									<bitRate>192</bitRate>
+									<drmFree>false</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+
+			<lockerRelease>
+				<release id="319678">
+					<title>Ladyhawke</title>
+					<version>Island Tunes Exclusive</version>
+					<type>Album</type>
+
+					<artist id="163333">
+						<name>Ladyhawke</name>
+
+						<appearsAs>Ladyhawke</appearsAs>
+
+						<url>http://www.7digital.com/artists/ladyhawke/?partner=712</url>
+					</artist>
+					<url>http://www.7digital.com/artists/ladyhawke/ladyhawke-2/?partner=712</url>
+					<image>http://cdn.7static.com/static/img/sleeveart/00/003/196/0000319678_50.jpg</image>
+
+					<releaseDate>2008-09-21T00:00:00+01:00</releaseDate>
+
+				</release>
+				<lockerTracks>
+
+
+					<lockerTrack>
+						<track id="3604606">
+							<title>Magic</title>
+							<version />
+
+							<artist id="163333">
+								<name>Ladyhawke</name>
+
+								<appearsAs>Ladyhawke</appearsAs>
+
+								<url>http://www.7digital.com/artists/ladyhawke/?partner=712</url>
+							</artist>
+							<url>http://www.7digital.com/artists/ladyhawke/ladyhawke-2/01-Magic?partner=712&amp;partner=712</url>
+						</track>
+
+						<remainingDownloads>5</remainingDownloads>
+						<purchaseDate>2009-05-06T10:45:18+01:00</purchaseDate>
+
+						<downloadUrls>
+
+
+							<downloadUrl>
+								<url>http://media3.7digital.com/media/user/downloadtrack?formatid=17&amp;oauth_consumer_key=test-api&amp;oauth_nonce=6774183&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1259243521&amp;oauth_token=HZvFeX5T7XlRIcJme%2FEWTg%3D%3D&amp;releaseid=319678&amp;shopid=34&amp;trackid=3604606&amp;oauth_signature=8DLvh3LQJ52b586rdlPaYUNe6Qk%3D</url>
+
+								<format id="17">
+									<fileFormat>MP3</fileFormat>
+									<bitRate>320</bitRate>
+									<drmFree>true</drmFree>
+								</format>
+							</downloadUrl>
+
+						</downloadUrls>
+
+					</lockerTrack>
+
+
+				</lockerTracks>
+			</lockerRelease>
+
+
+		</lockerReleases>
+	</locker>
+
+
+
+</response>

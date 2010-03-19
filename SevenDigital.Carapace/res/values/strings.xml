@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">7digital</string>
+    <string name="settings_description">blah blah blah</string>
+    <string name="search_label">Search</string>
+</resources>
