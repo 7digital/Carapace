@@ -11,6 +11,7 @@ import org.dom4j.DocumentException;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import sevendigital.carapace.core.Api;
+import sevendigital.carapace.core.ReferenceCredentials;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -20,12 +21,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Search extends Activity {
-	private final Credential testApi = new Credential("NOT-VALID", "NOT-VALID");
+	private final Credential testApi = ReferenceCredentials.ConsumerCredentials;
 	private ArrayList<String> result;
 
 	@Override
     public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState);
 
         setContentView(R.layout.search);
 
@@ -51,21 +52,15 @@ public class Search extends Activity {
 				"Found " + searchResults.get_totalCount() + " results for \"" + query +"\""
 			);
 
-			  mList.setOnItemClickListener(new AdapterView.OnItemClickListener()
-			  {
+			mList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 				  public void onItemClick(AdapterView<?> adapterView, android.view.View view, int i, long l) {
-
 					  String details = result.get(i);
 					  String trackId = details.substring(details.indexOf("{")+1, details.indexOf("}"));
-
-					  
-					   Intent myIntent = new Intent(view.getContext(), PlayMusic.class);
+					  Intent myIntent = new Intent(view.getContext(), PlayMusic.class);
 					  myIntent.putExtra("sevendigital.androiddojo.trackid", Integer.parseInt(trackId));
-					 startActivity(myIntent);
+					  startActivity(myIntent);
 				  }
-			  }
-
-			  );
+			});
 		}
     }
 
@@ -73,7 +68,7 @@ public class Search extends Activity {
 		result = new ArrayList<String>();
 
 		try {
-			 Document results = searchFor(query);
+			Document results = searchFor(query);
 
 			Integer pageSize = Integer.parseInt(results.selectSingleNode(
 				 "//response/searchResults/pageSize"
@@ -109,12 +104,11 @@ public class Search extends Activity {
 	}
 
     private Document searchFor(String query) throws URISyntaxException, IOException, DocumentException {
-
 		URI uri = new URI(
-			"http://api.7digital.com/1.2/track/search?q=" + java.net.URLEncoder.encode(query)
+			Api.LiveDomain + "/track/search?q=" + java.net.URLEncoder.encode(query)
     	);
-
-		InputStream inStream = new Api(testApi, null).openGet(uri);
+		
+		InputStream inStream = new Api(testApi).openGet(uri);
 
 		Document result = parse(inStream);
 

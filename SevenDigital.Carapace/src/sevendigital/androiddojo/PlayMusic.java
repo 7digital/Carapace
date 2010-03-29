@@ -15,6 +15,8 @@ import org.dom4j.DocumentException;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import sevendigital.carapace.core.Api;
+import sevendigital.carapace.core.ReferenceCredentials;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
@@ -29,8 +31,8 @@ import java.net.URL;
  * To change this template use File | Settings | File Templates.
  */
 public class PlayMusic extends Activity {
-   private final Credential testApi = new Credential("NOT-VALID", "NOT-VALID");
-    public String preview_url = "http://api.7digital.com/1.2/track/preview?redirect=false&trackid=";
+   private final Credential testApi = ReferenceCredentials.ConsumerCredentials;
+    public String preview_url = Api.LiveDomain + "/track/preview?redirect=false&trackid=";
 
     MediaPlayer mp;
 

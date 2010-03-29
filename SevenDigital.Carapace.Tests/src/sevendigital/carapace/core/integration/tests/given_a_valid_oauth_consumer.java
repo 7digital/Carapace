@@ -24,6 +24,7 @@ import org.junit.Test;
 import org.xml.sax.SAXException;
 
 import sevendigital.carapace.core.Api;
+import sevendigital.carapace.core.ReferenceCredentials;
 
 public class given_a_valid_oauth_consumer {
     Credential validConsumerCredential = null;
@@ -93,10 +94,10 @@ public class given_a_valid_oauth_consumer {
 	    SAXException, 
 	    URISyntaxException, 
 	    DocumentException 
-	    {
+	{
     	URI uri = new URI(
-		"http://api.7digital.com/1.2/artist/details?artistid=" + 
-		ARTIST_KEANE.toString()
+    			"http://api.7digital.com/1.2/artist/details?artistid=" + 
+    			ARTIST_KEANE.toString()
     	);
     	 
     	InputStream inStream = new Api(validConsumerCredential).openGet(uri);
@@ -114,21 +115,13 @@ public class given_a_valid_oauth_consumer {
     @Test
     public void and_a_valid_token_for_systest_then_I_can_access_my_locker() 
     throws URISyntaxException, HttpException, IOException {
-	Credential aValidToken = new Credential(
-		"HZvFeX5T7XlRIcJme/EWTg==", "Ao61gCJXIM20aqLDw7+Cow==" 
-	);
-	
-	URI uri = new URI(
-		"http://api.7digital.systest/1.2/user/locker"
-    	);
-	
-	_response = new Api(validConsumerCredential, aValidToken).get(uri); 
-	
-	then_http_response_equals(HttpStatus.SC_OK);
+		Credential aValidToken = ReferenceCredentials.ReferenceTokenForUser;
+		
+		URI uri = new URI("http://api.7digital.systest/1.2/user/locker");
     }
     
     private void given_a_valid_consumer() {
-        validConsumerCredential = new Credential("test-api", "8ahe976veCrawrAH");
+        validConsumerCredential = ReferenceCredentials.ConsumerCredentials;
     }
     
     private void when_I_fetch(URI uri) throws HttpException, IOException {

@@ -11,6 +11,7 @@ import org.dom4j.DocumentException;
 import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 import sevendigital.carapace.core.Api;
+import sevendigital.carapace.core.ReferenceCredentials;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -27,7 +28,7 @@ import java.util.List;
  * To change this template use File | Settings | File Templates.
  */
 public class LockerTrackListView extends ListActivity {
-    private final Credential testApi = new Credential("NOT-VALID", "NOT-VALID");
+    private final Credential testApi = ReferenceCredentials.ConsumerCredentials;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -70,16 +71,16 @@ public class LockerTrackListView extends ListActivity {
     }
 
     private Document getBiddersLocker() throws URISyntaxException, IOException, DocumentException {
-		Credential aValidToken = new Credential("NOT-VALID", "NOT-VALID");
+		Credential aValidToken = ReferenceCredentials.ReferenceTokenForUser;
 
         Intent intent = this.getIntent();
 
 		URI uri = new URI(
-			"http://api.7digital.systest/1.2/user/locker?releaseId=" + intent.getExtras().get("releaseId")
+			Api.SystestDomain + "/user/locker?releaseId=" + intent.getExtras().get("releaseId")
     	);
 
 
-		InputStream inStream = new Api(testApi, aValidToken).openGet(uri);
+		InputStream inStream = new Api(testApi).openGet(uri, aValidToken);
 
 		Document result = parse(inStream);
 

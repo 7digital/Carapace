@@ -17,11 +17,12 @@ import org.dom4j.Node;
 import org.dom4j.io.SAXReader;
 
 import sevendigital.carapace.core.Api;
+import sevendigital.carapace.core.ReferenceCredentials;
 import android.app.ListActivity;
 import android.os.Bundle;
 
 public class LockerListView extends ListActivity {
-	private final Credential testApi = new Credential("NOT-VALID", "NOT-VALID");
+	private final Credential testApi = ReferenceCredentials.ConsumerCredentials;
     List<LockerRelease> lockerReleases;
 
     @Override
@@ -61,16 +62,13 @@ public class LockerListView extends ListActivity {
     }
     
     private Document getBiddersLocker() throws URISyntaxException, IOException, DocumentException {
-		Credential aValidToken = new Credential(
-			"NOT-VALID",
-			"NOT-VALID"
-		);
+		Credential aValidToken = ReferenceCredentials.ReferenceTokenForUser;
 	
 		URI uri = new URI(
-			"http://api.7digital.systest/1.2/user/locker"
+			Api.SystestDomain + "/user/locker"
     	);
 	
-		InputStream inStream = new Api(testApi, aValidToken).openGet(uri);
+		InputStream inStream = new Api(testApi).openGet(uri, aValidToken);
 
 		Document result = parse(inStream);
 

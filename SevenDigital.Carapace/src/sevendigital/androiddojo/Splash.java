@@ -31,7 +31,6 @@ public class Splash extends Activity {
         Message msg = new Message();
         msg.what = STOPSPLASH; 
         splashHandler.sendMessageDelayed(msg, SPLASHTIME);
-
     }
     private Handler splashHandler = new Handler() {
           @Override
